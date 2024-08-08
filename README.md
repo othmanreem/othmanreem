@@ -16,9 +16,9 @@ I am a university student studying web development and interaction design. I hav
                     </p>
 Besides the above tages I am knowledgeable in:
 
-*       Elixir
-*       TypeScript
-*       Angular
-*       Pheonix
-*       LiveView
+-        Elixir
+-        TypeScript
+-        Angular
+-        Pheonix
+-        LiveView
                      
