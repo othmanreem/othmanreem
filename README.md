@@ -8,7 +8,7 @@ I am a university student studying web development and interaction design. I hav
 
 *   🌍  I'm based in Växjö
 *   ✉️  You can contact me at [reemothman455@gmail.com](mailto:reemothman455@gmail.com)
-*   🧠  I'm currently working on my first arcade game
+*   🧠  I'm currently learning Python
 *   🤝  I'm open to collaborating on projects
 *   ⚡  Fun Fact: two things I love, music and pizza
 <p align="left">
